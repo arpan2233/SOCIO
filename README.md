@@ -9,4 +9,4 @@ FEATURES:
 5) Search any username with a ease of writing just few characters correct(in case someone forgets the full username)
 6) Approach any user through minimum possible users in between
 
-HOPW you would like SOCIO
+HOPE you would like SOCIO
